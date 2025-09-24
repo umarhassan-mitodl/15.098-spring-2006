@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "fcf3f3c1-bcae-7743-7f22-829206db8318",
+  "instructors": {
+    "content": [
+      "00ee6aba-4f6e-cdc8-7227-106edbd9c091",
+      "0d27bbee-5033-8597-fa57-48aeab6ee009"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "815a113e-9900-7890-28b2-fcfa3f0771c8",
+    "website": "15-098-special-seminar-in-applied-probability-and-stochastic-processes-spring-2006"
+  },
+  "course_title": "Special Seminar in Applied Probability and Stochastic Processes",
+  "course_description": "This seminar is intended for doctoral students and discusses topics in applied probability. This semester includes a variety of fields, namely statistical physics (local weak convergence and correlation decay), artificial intelligence (belief propagation algorithms), computer science (random K-SAT problem, coloring, average case complexity) and electrical engineering (low density parity check (LDPC) codes).\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.098",
+  "course_image_thumbnail": {
+    "content": "67facd9d-0262-e7bc-7f82-8c2a64fb2de9",
+    "website": "15-098-special-seminar-in-applied-probability-and-stochastic-processes-spring-2006"
+  },
+  "learning_resource_types": [],
+  "site_uid": "9a51b222-4897-48aa-b9e9-4edb7c893bab",
+  "site_short_id": "15.098-spring-2006",
+  "site_url_path": "courses/15-098-special-seminar-in-applied-probability-and-stochastic-processes-spring-2006",
+  "title": "Course Metadata"
+}
